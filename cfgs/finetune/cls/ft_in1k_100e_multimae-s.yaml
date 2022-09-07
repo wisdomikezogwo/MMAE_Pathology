@@ -1,0 +1,18 @@
+# Finetune from:
+finetune: '/path/to/pretrained_weights' # Change me
+
+# Model
+model: multivit_small
+patch_size: 16
+use_mean_pooling: False
+drop_path: 0.1
+
+# Train
+epochs: 100
+opt: adamw
+blr: 0.003  # 3e-3
+weight_decay: 0.000005
+warmup_epochs: 5
+batch_size: 96
+dist_eval: False
+layer_decay: 0.65
