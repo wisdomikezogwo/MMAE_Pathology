@@ -59,11 +59,11 @@ After extracting H and E images following [this](#H&E Image Extraction) will cre
     │
     └── mae/
         └── H
-           ├── img1.ext1
-           └── img2.ext1
+           ├── ADI_img1.ext1
+           └── TUM_img2.ext1
         └── E
-           ├── img1.ext1
-           └── img2.ext1
+           ├── ADI_img2.ext1
+           └── TUM_img2.ext1
 ```
 
 For most experiments, we use RGB  (`rgb`), H stain image (`him`), and E stain image (`eim`) as our modalities.
