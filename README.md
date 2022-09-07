@@ -3,7 +3,7 @@
 [`arXiv`](http://arxiv.org/abs/2209.01534) | [`BibTeX`](#citation)
 
 <p align="center">
-<img src="assets/mmae_figure.png" width=100% height=100% 
+<img src="assets/mmae_figure.jpg" width=100% height=100% 
 class="center">
 </p>
 
