@@ -40,10 +40,11 @@ See [LICENSE](LICENSE) for details.
 If you find this repository helpful, please consider citing our work:
 
 ```BibTeX
-@XXXXXXX{XXX,
-  author    = {XXX},
+@article{ikezgwo2022self,
+  author    = {Ikezogwo, Wisdom Oluchi, Mehmet Saygin Seyfioglu, and Linda Shapiro},
   title     = {Multi-modal Masked Autoencoders Learn Compositional Histopathological Representations},
-  journal   = {XXX},
-  year      = {XXX},
+  journal   = {arXiv preprint arXiv:2209.01534},
+  year      = {2022},
 }
+
 ```
